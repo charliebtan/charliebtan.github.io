@@ -11,6 +11,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true
 ---
 
 Hi there! I'm Charlie, a DPhil Computer Science student at the University of Oxford.
