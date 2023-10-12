@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Today I [presented](https://iclr.cc/virtual/2023/14975)  our work at the ICLR TinyPaper 2023 showcase.
+Today I [presented](https://iclr.cc/virtual/2023/14975)  our work at the ICLR TinyPaper 2023 showcase
