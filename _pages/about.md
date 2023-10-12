@@ -4,6 +4,7 @@ title: about
 permalink: /
 subtitle: DPhil Student @ University of Oxford
 
+
 profile:
   align: right
   image: prof_pic.jpg
@@ -21,3 +22,5 @@ Prior to Oxford, I studied the MPhil in Advanced Computer Science at the Univers
 Whilst in Cambridge my research focused on deep learning theory, and was supervised by [Dr Ferenc Huszár](https://www.inference.vc/).
 I was particularly interested in [geometric](https://arxiv.org/abs/2308.12666) and [topological](/assets/pdf/Persistent Homology Dimension Does Not Measure Generalisation.pdf) theories of generalisation.
 My [MPhil dissertation](/assets/pdf/Rethinking Proximal Optimisation for Deep Learning.pdf) concerned approximate second-order optimisation, and the bias of such optimisers towards generalisation.
+
+\[name\]\(dot\)\[surname\]@cs.ox.ac.uk
