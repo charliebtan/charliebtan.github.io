@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Submitted my MPhil dissertation: [Rethinking Proximal Optimisation for Deep Learning](/assets/pdf/Rethinking Proximal Optimisation for Deep Learning.pdf)
+Submitted my MPhil dissertation: Rethinking Proximal Optimisation for Deep Learning
