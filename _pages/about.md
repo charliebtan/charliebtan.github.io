@@ -17,7 +17,7 @@ social: true
 
 Hi there! I'm Charlie, a DPhil Computer Science student at the University of Oxford.
 My research is in the area of generative modeling for scientific applications, and is supervised by Prof. Michael Bronstein.
-I'm particularly intrested in inference methods for score and flow-based models.
+I'm particularly interested in inference methods for score and flow-based models.
 
 This summer I interned at InstaDeep, in the Bayesian Flow Networks team.
 
