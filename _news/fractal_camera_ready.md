@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Camera ready version of our [NeurIPS paper](https://arxiv.org/abs/2406.02234) released
+Camera ready version of [_On the Limitations of Fractal Dimension as a Measure of Generalization_](https://arxiv.org/abs/2406.02234) released
