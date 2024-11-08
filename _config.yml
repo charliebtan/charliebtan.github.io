@@ -14,9 +14,9 @@ footer_text: >
 keywords: 
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: prof_pic.jpg
+icon: prof_pic.png
 
-url: https://char-tan.github.io
+url: https://charliebtan.github.io
 baseurl: 
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -69,9 +69,9 @@ github_username: char-tan
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: charlie-tan1
+linkedin_username: charliebtan
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: rymulTYAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
