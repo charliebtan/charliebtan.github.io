@@ -15,16 +15,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true
 ---
 
-Hi there! I'm Charlie, a DPhil Computer Science student at the University of Oxford.
-My research is in the area of generative modeling for scientific applications, and is supervised by Prof. Michael Bronstein.
-I'm particularly interested in inference methods for score and flow-based models.
+Hi there! I'm Charlie, a second-year DPhil Computer Science student at the University of Oxford. 
+I'm interested in the overlap between generative modelling and unnormalized density sampling, particularly for scientific applications.
+My research is supervised by Prof Michael Bronstein, and funded by a Departmental Studentship.
 
-This summer I interned at InstaDeep, in the Bayesian Flow Networks team.
+Last summer I interned at InstaDeep, working on generative protein design in the Bayesian Flow Networks team.
 
 Prior to Oxford, I studied the MPhil in Advanced Computer Science at the University of Cambridge, graduating with distinction.
 Whilst in Cambridge my research focused on deep learning theory, and was supervised by [Prof.&nbsp;Ferenc&nbsp;Huszár](https://www.inference.vc/).
 I was particularly interested in [geometric](https://iclr.cc/virtual/2023/14975) and [topological](https://arxiv.org/abs/2406.02234) theories of generalisation.
 My MPhil dissertation concerned approximate second-order optimisation, and the bias of such optimisers towards generalisation.
-A variation of this project was later applied to [RL](https://arxiv.org/abs/2411.00666).
 
 \[name\]\(dot\)\[surname\]@cs.ox.ac.uk
