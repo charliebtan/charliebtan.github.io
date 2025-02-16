@@ -16,7 +16,7 @@ social: true
 ---
 
 Hi there! I'm Charlie, a second-year DPhil Computer Science student at the University of Oxford. 
-I'm interested in the overlap between generative modelling and unnormalized density sampling, particularly for scientific applications.
+I'm interested in the overlap between generative modeling and unnormalized density sampling, particularly for scientific applications.
 My research is supervised by Prof Michael Bronstein, and funded by a Departmental Studentship.
 
 Last summer I interned at InstaDeep, working on generative protein design in the Bayesian Flow Networks team.
