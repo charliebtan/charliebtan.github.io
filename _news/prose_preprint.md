@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-08-22
+date: 2025-09-25
 inline: true
 related_posts: false
 ---
 
-[New preprint!](https://arxiv.org/abs/2508.18175) - applying transferable normalizing flows to sampling!
+[Amortized Sampling with Transferable Normalizing Flows](https://arxiv.org/abs/2508.18175) accepted to NeurIPS 2025.

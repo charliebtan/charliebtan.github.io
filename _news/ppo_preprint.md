@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Preprint](https://arxiv.org/abs/2411.00666) - applying techniques developed for my MPhil dissertation to RL!
+[Preprint](https://arxiv.org/abs/2411.00666) - applying techniques developed for my MPhil dissertation to RL.
