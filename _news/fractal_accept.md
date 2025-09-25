@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-_On the Limitations of Fractal Dimension as a Measure of Generalization_ accepted to NeurIPS 2024!
+[On the Limitations of Fractal Dimension as a Measure of Generalization](https://arxiv.org/abs/2406.02234) accepted to NeurIPS 2024!
+
+ 
