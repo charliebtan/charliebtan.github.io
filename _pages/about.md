@@ -16,8 +16,8 @@ social: true
 ---
 
 Hi there! I'm Charlie, a third-year DPhil Computer Science student at the University of Oxford. 
-I'm interested in _learned samplers_—generative methods for drawing samples from the Boltzmann density of molecular systems.
-My research is supervised by [Prof.&nbsp;Michael&nbsp;Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/), and co-supervised by [Dr.&nbsp;Alex&nbsp;Tong](https://www.alextong.net). 
+I'm interested in _learned samplers_—generative methods for drawing samples from Boltzmann densities.
+My research is supervised by [Prof.&nbsp;Michael&nbsp;Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/) and [Dr.&nbsp;Alex&nbsp;Tong](https://www.alextong.net). 
 
 I'm currently visiting the Mila - Quebec AI Institute, where I am hosted by [Dr.&nbsp;Kirill&nbsp;Neklyudov](https://necludov.github.io). Last summer I interned at InstaDeep, working on [generative protein sequence modeling](https://www.nature.com/articles/s41467-025-58250-2).
 
